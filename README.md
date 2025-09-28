@@ -10,6 +10,29 @@ PCA-based diagnostics that surface the qualitative shift introduced by the DINOv
 
 ---
 
+## Quickstart 
+
+```bash
+# Clone the repository
+git clone https://github.com/theaudaudiffret/Dino_V3_improvements_visualized.git
+cd Dino_V3_improvements_visualized
+
+# Create a virtual environment
+python3 -m venv venv
+
+# Activate the virtual environment
+# On Linux / macOS:
+source venv/bin/activate
+# On Windows:
+# venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+markdown
+Copier le code
+```
+---
+
 ## Project aim
 
 - Show, with side-by-side visual evidence, how DINOv3 trades local sharpness from DINOv2 for
