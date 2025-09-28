@@ -2,11 +2,11 @@
 
 This notebook-driven mini-project documents how DINOv3 dense features differ from DINOv2, with
 one clear objective: explain why DINOv3 produces globally coherent maps when you visualize patch
-embeddings. The repository packages that story into a compact, reproducible walk-through of the
-PCA-based diagnostics that surface the qualitative shift introduced by the DINOv3 training recipe.
+embeddings. 
 
-> The notebook covers background suppression, smooth PCA maps, and cosine-similarity diagnostics.
-> All images were captured by me.
+✨ Smooth PCA maps, and cosine-similarity diagnostics.  
+📸 Every image was captured by me in the wild. 
+
 
 ---
 
